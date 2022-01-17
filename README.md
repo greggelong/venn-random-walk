@@ -10,7 +10,7 @@ that draws lines to the 8 directions N NE E SE S SW W NW
 
 most other random walks I had just used 4 directions
 
-However it brought to light an interesting history of ideas of precision and the very concept of randomness
+However it brought to light an interesting problem in the history of ideas, the search for precision and the very concept of randomness
 
 Venn in doing his graph which is explained in chapter 5 of his book
 
