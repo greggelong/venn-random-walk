@@ -43,5 +43,15 @@ if you trace it out on paper it is very easy to see where Venn goes wrong. I was
 
 a typesetting compromise.
 
+But I really believe that he is using another rule for the same digits that appear in a row
 
+as you see he differs from Shanks digits when three threes need to be plotted which which makes
+
+a long diagonal in my plot. This long diagonal does not appear in his plot.
+
+I had a guess that he would deal with these multiple digits by just plotting one of them
+
+so I cleaned the data in python but it did not produce as he originally published.
+
+I need to analyze more closely with paper and pen.
 
